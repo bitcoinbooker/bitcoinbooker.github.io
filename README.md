@@ -74,15 +74,15 @@ Lastly, since you have to send them money via Bitcoin, I don't think it's an eas
 
 ### Main Redflags:
 
--Their domain name is only registered for 1 year.
--They don't have a US Phone number but advertise in the US.
--A US phone number would cost next to nothing.
--Don't fix a one letter typo after being informed of the typo.
--I can't find any reviews of this company online.
--They do not give refunds for any reason, even though it costs them nothing to do so.
--All of the numbers on their home page that show successful transactions, ARE FAKE.  How could a system that can't even show the users balance, be so sophisticated that it would show the transaction histories on their home page?  Not a chance.
+- Their domain name is only registered for 1 year.
+- They don't have a US Phone number but advertise in the US.
+- A US phone number would cost next to nothing.
+- Don't fix a one letter typo after being informed of the typo.
+- I can't find any reviews of this company online.
+- They do not give refunds for any reason, even though it costs them nothing to do so.
+- All of the numbers on their home page that show successful transactions, ARE FAKE.  How could a system that can't even show the users balance, be so sophisticated that it would show the transaction histories on their home page?  Not a chance.
 
-I hope this review will help others avoid getting trapped or scammed by this poor excuse of a company (or fraud/scam whatever it is).
+### I hope this review will help others avoid getting trapped or scammed by this poor excuse of a company (or fraud/scam whatever it is).
 
 Even in the highly unlikely event that this company isn't a fraud, they don't have the technical chops to protect your money or even avoid losing your money due to their incompetence.  A company that can't even make their system reflect your balance, will surely hurt a lot of people soon enough.  
 
